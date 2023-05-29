@@ -56,7 +56,7 @@ If you found this notebook useful for your research project,
 please cite the tutorial article as follows:
 
 ```bibtex
-@article{riordan2023,
+@article{zsltutorial2023,
   author = "Riordan, B. and Bonela, A. A. and He, Z. and Nibali, A. and Anderson-Luxford, D. and Kuntsche, E.",
   title = "Applying zero-shot learning to media text data in substance use research: an overview and tutorial",
 }
