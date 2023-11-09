@@ -1,41 +1,61 @@
-text,hand_annotated
-"A society fueled by productivity and clarity is what we need. Let's avoid the potential lethargy and cognitive impairments associated with marijuana.",anti-legalisation
-"Cannabis: the herb that could bring relief to so many. It's time to set her free!",pro-legalisation
-"Don't let the allure of relaxation blind us to the potential risks. We should find healthier ways to unwind and cope with life's challenges.",anti-legalisation
-"Don't let the smoke screen fool you. Marijuana may have its advocates, but the potential risks outweigh the perceived benefits.",anti-legalisation
-"From joint rollers to budtenders, the marijuana community is thriving. Let's join the party!",pro-legalisation
-"Hands off our weed, man! It's time to stop telling adults what they can or can't enjoy.",pro-legalisation
-"Hey, let's give Mary Jane a chance to shine! She's got some hidden talents, you know.",pro-legalisation
-"Hey, politicians, it's time to get with the times and let the ganja nation rise.",pro-legalisation
-"Just imagine the possibilities if we embraced the green goodness.",pro-legalisation
-"Legalize cannabis and redirect those wasted resources to fighting real crime.",pro-legalisation
-"Legalizing marijuana can right the wrongs of the past and create opportunities for all.",pro-legalisation
-"Let's end the stigma and show the world that marijuana users are just regular folks.",pro-legalisation
-"Let's focus on sober living and building a society free from the dependence on mind-altering substances.",anti-legalisation
-"Let's invest in substance abuse prevention and rehabilitation programs rather than legalizing another potentially harmful drug.",anti-legalisation
-"Let's light up the conversation and challenge outdated beliefs about marijuana.",pro-legalisation
-"Let's not let marijuana become the next tobacco industry. We've learned from the past, and we mustn't repeat the same mistakes.",anti-legalisation
-"Let's prioritize health and safety over the green haze. Say no to the potential risks of widespread marijuana use.",anti-legalisation
-"Let's promote responsible living without relying on mind-altering substances. Our potential is limitless when we stay clear-headed.",anti-legalisation
-"Let's toke up the economy and create jobs in the booming marijuana industry.",pro-legalisation
-"Light up the night and let the good times roll with some good ol' Mary Jane.",pro-legalisation
-"Marijuana users come in all shapes, sizes, and colors. It's time for society to see the real us.",pro-legalisation
-"Move over opioids, there's a natural alternative in town. Let's explore the healing power of Mary Jane.",pro-legalisation
-"Pack your bags and join the green travel revolution. Experience the joys of marijuana-friendly destinations.",pro-legalisation
-"Protect our communities from the potential harm of marijuana. We don't need another substance clouding our judgment.",anti-legalisation
-"Protect our roadways and keep them safe. Marijuana impairment can lead to accidents and jeopardize lives.",anti-legalisation
-"Regulate, educate, and elevate! It's time to give Mary Jane the respect she deserves.",pro-legalisation
-"Reject the normalization of marijuana culture. We should strive for a society that values mental clarity and well-being.",anti-legalisation
-"Say no to the gateway effect. Marijuana can open the door to more harmful substances and lead down a dangerous path.",anti-legalisation
-"Say yes to a drug-free future. Let's invest in education and prevention rather than normalizing marijuana use.",anti-legalisation
-"The negative impact on our communities outweighs any potential tax revenue from legalizing marijuana. Let's think long-term.",anti-legalisation
-"Think twice before advocating for marijuana normalization. It can have long-term effects on mental health and overall well-being.",anti-legalisation
-"Time to break free from the chains of prohibition and let the good vibes flow.",pro-legalisation
-"We don't need another legal drug that can cause dependency and addiction. Let's keep marijuana off the market.",anti-legalisation
-"We need to protect our youth from the dangers of marijuana. Say no to normalizing drug use in their impressionable minds.",anti-legalisation
-"We should focus on addressing the root causes of pain and stress rather than turning to a temporary fix like marijuana.",anti-legalisation
-"We should prioritize evidence-based medicine over the unproven claims surrounding marijuana's supposed benefits.",anti-legalisation
-"Who needs a muse when you've got Mary Jane? Unlock your creativity and let it flow.",pro-legalisation
-"Who's ready to turn over a new leaf and embrace the ganja life?",pro-legalisation
-"Why let Big Pharma have all the fun? Let's explore the natural wonders of Mary Jane.",pro-legalisation
-"Why risk it? Let's keep our minds clear and avoid the unpredictable consequences of widespread marijuana consumption.",anti-legalisation
+text,hand_annotated,clear_mixed
+A society fueled by productivity and clarity is what we need. Let's avoid the potential lethargy and cognitive impairments associated with marijuana.,anti-legalisation,clear
+Cannabis: the herb that could bring relief to so many. It's time to set her free!,pro-legalisation,clear
+Don't let the allure of relaxation blind us to the potential risks. We should find healthier ways to unwind and cope with life's challenges.,anti-legalisation,clear
+"Don't let the smoke screen fool you. Marijuana may have its advocates, but the potential risks outweigh the perceived benefits.",anti-legalisation,clear
+"From joint rollers to budtenders, the marijuana community is thriving. Let's join the party!",pro-legalisation,clear
+"Hands off our weed, man! It's time to stop telling adults what they can or can't enjoy.",pro-legalisation,clear
+"Hey, let's give Mary Jane a chance to shine! She's got some hidden talents, you know.",pro-legalisation,clear
+"Hey, politicians, it's time to get with the times and let the ganja nation rise.",pro-legalisation,clear
+Just imagine the possibilities if we embraced the green goodness.,pro-legalisation,clear
+Legalize cannabis and redirect those wasted resources to fighting real crime.,pro-legalisation,clear
+Legalizing marijuana can right the wrongs of the past and create opportunities for all.,pro-legalisation,clear
+Let's end the stigma and show the world that marijuana users are just regular folks.,pro-legalisation,clear
+Let's focus on sober living and building a society free from the dependence on mind-altering substances.,anti-legalisation,clear
+Let's invest in substance abuse prevention and rehabilitation programs rather than legalizing another potentially harmful drug.,anti-legalisation,clear
+Let's light up the conversation and challenge outdated beliefs about marijuana.,pro-legalisation,clear
+"Let's not let marijuana become the next tobacco industry. We've learned from the past, and we mustn't repeat the same mistakes.",anti-legalisation,clear
+Let's prioritize health and safety over the green haze. Say no to the potential risks of widespread marijuana use.,anti-legalisation,clear
+Let's promote responsible living without relying on mind-altering substances. Our potential is limitless when we stay clear-headed.,anti-legalisation,clear
+Let's toke up the economy and create jobs in the booming marijuana industry.,pro-legalisation,clear
+Light up the night and let the good times roll with some good ol' Mary Jane.,pro-legalisation,clear
+"Marijuana users come in all shapes, sizes, and colors. It's time for society to see the real us.",pro-legalisation,clear
+"Move over opioids, there's a natural alternative in town. Let's explore the healing power of Mary Jane.",pro-legalisation,clear
+Pack your bags and join the green travel revolution. Experience the joys of marijuana-friendly destinations.,pro-legalisation,clear
+Protect our communities from the potential harm of marijuana. We don't need another substance clouding our judgment.,anti-legalisation,clear
+Protect our roadways and keep them safe. Marijuana impairment can lead to accidents and jeopardize lives.,anti-legalisation,clear
+"Regulate, educate, and elevate! It's time to give Mary Jane the respect she deserves.",pro-legalisation,clear
+Reject the normalization of marijuana culture. We should strive for a society that values mental clarity and well-being.,anti-legalisation,clear
+Say no to the gateway effect. Marijuana can open the door to more harmful substances and lead down a dangerous path.,anti-legalisation,clear
+Say yes to a drug-free future. Let's invest in education and prevention rather than normalizing marijuana use.,anti-legalisation,clear
+The negative impact on our communities outweighs any potential tax revenue from legalizing marijuana. Let's think long-term.,anti-legalisation,clear
+Think twice before advocating for marijuana normalization. It can have long-term effects on mental health and overall well-being.,anti-legalisation,clear
+Time to break free from the chains of prohibition and let the good vibes flow.,pro-legalisation,clear
+We don't need another legal drug that can cause dependency and addiction. Let's keep marijuana off the market.,anti-legalisation,clear
+We need to protect our youth from the dangers of marijuana. Say no to normalizing drug use in their impressionable minds.,anti-legalisation,clear
+We should focus on addressing the root causes of pain and stress rather than turning to a temporary fix like marijuana.,anti-legalisation,clear
+We should prioritize evidence-based medicine over the unproven claims surrounding marijuana's supposed benefits.,anti-legalisation,clear
+Who needs a muse when you've got Mary Jane? Unlock your creativity and let it flow.,pro-legalisation,clear
+Who's ready to turn over a new leaf and embrace the ganja life?,pro-legalisation,clear
+Why let Big Pharma have all the fun? Let's explore the natural wonders of Mary Jane.,pro-legalisation,clear
+Why risk it? Let's keep our minds clear and avoid the unpredictable consequences of widespread marijuana consumption.,anti-legalisation,clear
+"While cautious about potential repercussions, legalizing cannabis may offer a chance to reevaluate our approach to drug policy and prioritize public health over criminalization.",pro-legalisation,mixed
+"Recognizing the need for careful regulation, the legalization of cannabis could signal a shift towards a more progressive and evidence-based framework for addressing substance use.",pro-legalisation,mixed
+"Acknowledging the complexities, the legalization of cannabis might necessitate comprehensive education initiatives to ensure responsible use and minimize potential societal harms.",pro-legalisation,mixed
+"Amidst valid concerns, the legalization of cannabis may prompt a critical examination of current societal attitudes towards drug use, fostering empathy and support for individuals struggling with addiction.",pro-legalisation,mixed
+"Balancing concerns with potential benefits, legalizing cannabis may prompt a reevaluation of stigmatizing narratives, fostering a more compassionate and informed approach to drug policy.",pro-legalisation,mixed
+"While mindful of potential risks, the legalization of cannabis could encourage investment in research that explores its therapeutic potential, offering new avenues for addressing various health conditions.",pro-legalisation,mixed
+"Considering the need for careful oversight, the legalization of cannabis may offer an opportunity to address systemic inequalities within the criminal justice system and promote more equitable policies.",pro-legalisation,mixed
+"Recognizing the potential challenges, the legalization of cannabis could encourage proactive measures to ensure the protection of vulnerable populations and minimize potential adverse societal effects.",pro-legalisation,mixed
+"While cognizant of potential pitfalls, the legalization of cannabis may prompt a reassessment of societal perceptions, encouraging a more holistic and empathetic approach to addressing the needs of individuals with chronic pain.",pro-legalisation,mixed
+"Acknowledging potential drawbacks, the legalization of cannabis may prompt a reexamination of current public health strategies, fostering a more comprehensive and inclusive approach to harm reduction and treatment.",pro-legalisation,mixed
+"While I understand arguments for its benefits, the potential risks of legalizing cannabis cannot be overlooked, especially in terms of public health and safety.",anti-legalisation,mixed
+"Acknowledging the potential revenue, the legalization of cannabis could also lead to increased accessibility, potentially contributing to a rise in substance abuse and related societal issues.",anti-legalisation,mixed
+"Despite potential economic gains, the legalization of cannabis may also intensify the existing challenges in regulating and monitoring the production and distribution of the drug.",anti-legalisation,mixed
+"Considering the arguments for legalization, it's crucial to recognize the potential implications on mental health, as increased accessibility could contribute to a rise in dependency and addiction.",anti-legalisation,mixed
+"While recognizing potential medical benefits, the legalization of cannabis may also inadvertently normalize its use, potentially leading to adverse effects on youth and vulnerable populations.",anti-legalisation,mixed
+"Amid discussions of its potential benefits, the legalization of cannabis could also perpetuate harmful stereotypes and stigmas associated with drug use, exacerbating societal challenges.",anti-legalisation,mixed
+"While acknowledging the need for criminal justice reform, the legalization of cannabis might also pose challenges in effectively regulating its production, distribution, and overall impact on communities.",anti-legalisation,mixed
+"Recognizing its potential medicinal value, the legalization of cannabis may also lead to unintended consequences such as increased accessibility and misuse, particularly among vulnerable populations.",anti-legalisation,mixed
+"Despite arguments for regulation, the legalization of cannabis may pose challenges in distinguishing between responsible and irresponsible use, potentially normalizing its recreational use among the youth.",anti-legalisation,mixed
+"While considering the potential benefits, the legalization of cannabis may also pose significant challenges in terms of implementing effective policies to mitigate the potential adverse societal effects and public health risks.",anti-legalisation,mixed
